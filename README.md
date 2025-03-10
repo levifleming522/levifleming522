@@ -10,7 +10,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Detecting and Mitigating Internal Port Scanning)](https://github.com/levifleming522/Threat-Hunting)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/levifleming522/Threat-Hunting-Scenario-Tor)**
   
 <hr/>
